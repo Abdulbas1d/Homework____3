@@ -172,7 +172,7 @@
 
 // const students2 = [
 //     { name: 'Sherzod', age: 23, score: 88, status: 'active' },
-//     { name: 'Davron', age: 21, score: 90, status: 'inactive' }
+//     { name: 'Bahrom', age: 21, score: 90, status: 'inactive' }
 // ];
 
 // function mergeStudentLists(list1, list2) {
